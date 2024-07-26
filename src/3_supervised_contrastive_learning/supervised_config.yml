@@ -1,0 +1,3 @@
+data.directory: modeldata_paraphrased
+model.type: 304_paraphrased
+features: 304

@@ -1,0 +1,15 @@
+contractions==0.1.73
+gensim==4.3.2
+joblib==1.4.2
+keras==3.4.1
+matplotlib==3.9.1
+nltk==3.8.1
+numpy==2.0.1
+openai==1.37.0
+PyYAML==6.0.1
+scikit_learn==1.5.1
+tensorflow==2.16.2
+tensorflow_intel==2.16.2
+tiktoken==0.7.0
+tqdm==4.66.4
+tensorflow_intel==2.17.0
