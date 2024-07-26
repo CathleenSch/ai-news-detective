@@ -1,0 +1,2 @@
+model.save.directory: siamese/304_paraphrased
+data.read.directory: siamese_network_data/304_paraphrased

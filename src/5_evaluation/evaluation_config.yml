@@ -1,0 +1,3 @@
+data.test: modeldata_paraphrased
+cl.model: siamese_network
+model.type: 304_paraphrased
