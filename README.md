@@ -41,12 +41,12 @@ ai_news_detective/
 │   │   ├── 5.1_evaluation.py    # Script to evaluate a classification model using test data
 │   │   ├── 5.2_evaluate_paraphrasing_attack.py  # Script to test classification models on paraphrased texts
 │   │   └── evaluation_config.yml  # Config file to determine which model to evaluate
-│   ├── 6_ai_news_detective/
-│   │   ├── models/              # Folder in which the final chosen models are stored for the application
-│   │   ├── utils/               # Sub modules
-│   │   └── main_ai_news_detective.py  # Main application to have a text evaluated using the final models
-│   ├── config_local_template.yml  # Config template which should be copied as config_local.yml and edited to contain the OpenAI API key
-│   └── requirements.txt         # File that contains all necessary Python libraries to be installed before use
+│   └── 6_ai_news_detective/
+│       ├── models/              # Folder in which the final chosen models are stored for the application
+│       ├── utils/               # Sub modules
+│       └── main_ai_news_detective.py  # Main application to have a text evaluated using the final models
+├── config_local_template.yml  # Config template which should be copied as config_local.yml and edited to contain the OpenAI API key
+└── requirements.txt         # File that contains all necessary Python libraries to be installed before use
 
 
 ### Usage
