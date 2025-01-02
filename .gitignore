@@ -170,4 +170,4 @@ resources/modeldata/*
 resources/modeldata_no_burstiness/*
 resources/NeuralNews/*
 resources/paraphrased/*
-*.bin
+*.bin*.keras
